@@ -39,7 +39,7 @@ Os módulos a serem feitos são:
 
 1-módulo menu
 
-criar uma função que lista todas as opções de 2 a 7 com o nome de cada operação na tela
+criar uma função que lista todas as opções de 1 a 7 com o nome de cada operação na tela
 e que em seguida peça para o usúario digitar um número.
 Se o número estiver entre o intervalo de opções válidas, retornar o número,
 se não, repetir o menu novamente.
@@ -131,3 +131,4 @@ criar uma função que chame a função menu, a função menu deverá retornar u
 com base nesse valor, deverá ser chamada as outras funções do sistema
 
 vou explicar melhor futuramente
+
