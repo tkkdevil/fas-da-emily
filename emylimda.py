@@ -7,14 +7,15 @@ def nomes ():
         print("3 listar alunos em especifico")
         print("4 atualizar aluno")
         print("5 excluir aluno")
-        print("6 media")
+        print("ätualizar aluno")
+        print("7 media")
         print("0 sair")
         
         numero_da_opcao = int(input("digite o numero da opcao"))
 
-        if(numero_da_opcao =1,7):
-            return menu 
+        if(numero_da_opcao <= 7 and numero_da_opcao >= 0):
+            return numero_da_opcao                 
 
         menu.append(numero_da_opcao)
-
-nomes()
+print()
+print(nomes())
