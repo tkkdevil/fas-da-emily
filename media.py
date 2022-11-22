@@ -11,4 +11,3 @@ def media ():
         soma = receber + soma
     resultado = soma/(a-2)
     print(resultado)
-media() 

@@ -26,4 +26,3 @@ def atualizar():
     arquivo.writelines(conteudo)
     if controle == False:
         print("nao existe")
-atualizar()

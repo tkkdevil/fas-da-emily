@@ -10,6 +10,6 @@ def listar ():
         print("mtricula: " + ultima_linha [2])
         print("idade: " + ultima_linha [3])
         print("nota: " + ultima_linha [4])
-listar()
+
 
 

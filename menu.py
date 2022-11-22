@@ -7,8 +7,7 @@ def nomes ():
         print("3 listar alunos em especifico")
         print("4 atualizar aluno")
         print("5 excluir aluno")
-        print("ätualizar aluno")
-        print("7 media")
+        print("6 media")
         print("0 sair")
         
         numero_da_opcao = int(input("digite o numero da opcao"))
@@ -17,5 +16,3 @@ def nomes ():
             return numero_da_opcao                 
 
         menu.append(numero_da_opcao)
-print()
-print(nomes())

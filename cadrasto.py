@@ -6,11 +6,9 @@ def cadrasto ():
     ultima_linha = conteudo[-1]
     resultado = ultima_linha.split(";")
     
-    print(resultado[0] )
 
     id= int (resultado[0])
     id = (id + 1)   
-    print(id)
 
     arquivo.close()
 
@@ -28,4 +26,3 @@ def cadrasto ():
     arquivo.write(c + ";")
     arquivo.write(d + "\n")
     arquivo.close()
-cadrasto()

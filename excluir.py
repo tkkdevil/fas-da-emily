@@ -24,4 +24,3 @@ def excluir ():
     arquivo.writelines(conteudo)
     if controle == False:
         print ("nao existe")
-excluir()

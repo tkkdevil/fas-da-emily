@@ -28,4 +28,3 @@ def listar ():
     arquivo.writelines(conteudo)
     if controle == False:
         print ("nao existe")
-listar()

@@ -1,11 +1,9 @@
 sep=;
 id;nome;matricula;idade;nota
-1;emily;1313;15;13
 2;olivia;505;16;120
 3;amanda;2222;17;11
-4;asdas;2222;17;11
 5;asdsd;2222;17;11
-234;saefsd;fsefes;17;11
-235; sdkfvh;skufh;dsf;10
-4; sdkfvh;skufh;dsf;10
-5;& C:/Users/Administrador/AppData/Local/Programs/Python/Python310/python.exe c:/Users/Administrador/Documents/GitHub/fas-da-emily/emylimda.py;& C:/Users/Administrador/AppData/Local/Programs/Python/Python310/python.exe c:/Users/Administrador/Documents/GitHub/fas-da-emily/excluir.py;& C:/Users/Administrador/AppData/Local/Programs/Python/Python310/python.exe c:/Users/Administrador/Documents/GitHub/fas-da-emily/listar.py;& C:/Users/Administrador/AppData/Local/Programs/Python/Python310/python.exe c:/Users/Administrador/Documents/GitHub/fas-da-emily/media.py
+6;ronaldo;5055;22;1
+7;ronaldo;500;20;3
+8;girafa;555;40;20
+9;abacate;555;40;20

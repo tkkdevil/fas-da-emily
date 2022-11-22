@@ -121,7 +121,7 @@ pela quantidade de alunos cadastrados e mostrar resultado na tela.
 
 no final do modulo, fechar o arquivo
 
-8-módulo calcular media dos alunos
+8-módulo main 
 
 esse módulo sera o módulo principal do sistema, que vai juntar todos os outros módulos
 
